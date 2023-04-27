@@ -1,0 +1,4 @@
+# base16.dd.nvim
+
+an attempt at a highlighting theme for nvim with treesitter + lsp support. made
+using `colorgen-nvim`.
